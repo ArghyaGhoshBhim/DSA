@@ -1,4 +1,9 @@
-public class FactorialOfNumber {
+
+
+
+
+
+public class FactorialOfNumber{
 
 
 
@@ -13,4 +18,5 @@ public class FactorialOfNumber {
         }
         return n*factorial(n-1);
     }
+
 }
